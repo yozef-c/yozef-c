@@ -1,2 +1,2 @@
 ### Aspiring Software / Cloud Engineer
-### Phd (Logic & Methodology of Science)
+#### PhD in Logic & Methodology of Science
